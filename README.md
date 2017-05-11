@@ -8,10 +8,13 @@ This was done as part of a class project, which required all classes to be inclu
 * Program reads a barcode image and translates it into a message. It also reads a message and translates it into an image.
 
 Screen shots of the output:
+---
 
 ![alt text][prog1]
 
 [prog1]: http://res.cloudinary.com/ashley-king/image/upload/v1494527898/run_1_b9fckp.png "Program Output 1"
+
+---
 
 ![alt text][prog2]
 
